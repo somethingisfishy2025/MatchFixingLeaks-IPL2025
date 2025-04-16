@@ -9,6 +9,6 @@ But here are some leaked documents.
 - Evidence and clues hidden in the metadata of the PDF.
 
 ## My old Twitter handle:
-@CricketInsider2025 (deleted the post to protect my identity)
+@cric_insider25 (deleted the post to protect my identity)
 
 Hint: Look carefully at the PDF. Some info might be hidden in the metadata.
