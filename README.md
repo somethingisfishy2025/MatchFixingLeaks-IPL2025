@@ -1,14 +1,28 @@
-# MatchFixingLeaks-IPL2025
-# IPL 2025 Match-fixing Leaks
-There have been rumors about match-fixing involving MI and CSK.
-Due to the sensitivity of the situation, I had to delete my Twitter post about it.
-But here are some leaked documents.
+# 🏏 MatchFixingLeaks-IPL2025
 
-## Documents Inside:
-- Leaked strategy report (check out the PDF for hidden info)
-- Evidence and clues hidden in the metadata of the PDF.
+There have been rumors about match-fixing involving MI and CSK in the IPL 2025 season. Due to the sensitivity of the situation, my original Twitter post had to be deleted. But I am leaking one of the internal documents here.
 
-## My old Twitter handle:
-@cric_insider25 (deleted the post to protect my identity)
+---
 
-Hint: Look carefully at the PDF. Some info might be hidden in the metadata.
+## 📄 Document Leaked
+
+- **leaked_strategy_report.pdf**  
+⚠️ This is an internal document. For your eyes only.
+
+---
+
+## 👤 My Old Twitter Handle
+
+`@cric_insider25` (tweet has been deleted to protect identity)
+
+---
+
+## 🕵️ OSINT Hint
+
+This is more than just a PDF.  
+Look deeper.  
+Metadata never lies.
+
+---
+
+> If this repo disappears, you'll know it was real.
